@@ -9,6 +9,9 @@ A detailed report is available <a href="https://drive.google.com/file/d/0B87x7EO
 Python 2.6 or Higher
 Java
 
+Python Library  
+sqlite3
+
 ##Problem
 Analysis of entity types on Wikipedia is done on the entire Wikipedia XML Dump. We are asked to extract information about various entity types. 
 
