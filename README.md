@@ -6,7 +6,7 @@ This repository consists of the project done as part of the course Web Mining- M
 A detailed report is available <a href="https://drive.google.com/file/d/0B87x7EOOS4ztdVRuVHlWR3JIQnM/edit?usp=sharing",target="blank">here</a>
 
 ##Requirements
-Python 2.6 or Higher
+Python 2.6 or Higher  
 Java
 
 Python Library  
